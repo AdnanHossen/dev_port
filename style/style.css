@@ -14,3 +14,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+.header {
+  background-color: #fff8f3;
+  background-image: url(../images/developer.png);
+  background-repeat: no-repeat;
+}
+.bg-image {
+  background-image: url(../images/a_banner_05oct22-removebg-preview.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about-me {
+  background-color: #fff8f3;
+}
