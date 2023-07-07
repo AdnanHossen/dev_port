@@ -1,4 +1,16 @@
-h1,
-h2 {
-  color: red;
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap");
+/* font */
+
+/* root elements */
+:root {
+  --body-font: "Roboto", sans-serif;
+  --header-font: "Open Sans", sans-serif;
+}
+/* root elements */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
